@@ -110,3 +110,7 @@ Each essay has one Writing event. Each source adds its own Author role to it.
 24. Which letters mention a problem with the printed book, and what passage says so?
 
     [Document(Letter), Reference(PrintingProblem), refersTo, Document(Volume), Passage]
+
+## Future work
+
+- Which documents are classified as Anti-Federalist essays? (Needs Anti-Federalist texts we have not collected yet.)
