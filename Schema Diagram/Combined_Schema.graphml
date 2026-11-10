@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <key attr.name="description" attr.type="string" for="graph" id="d0"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0">Federalist ontology: assembled schema (all modules)</data>
+    <node id="f0">
+      <data key="d5">Module boundary: Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="110" width="480" x="310" y="30"/><y:Fill color="#F5F5F5" transparent="false"/><y:BorderStyle color="#555555" type="dashed" width="1.0"/><y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Essay module</y:NodeLabel><y:Shape type="rectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="f1">
+      <data key="d5">Module boundary: Publication module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="250" width="520" x="840" y="30"/><y:Fill color="#F5F5F5" transparent="false"/><y:BorderStyle color="#555555" type="dashed" width="1.0"/><y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Publication module</y:NodeLabel><y:Shape type="rectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="f2">
+      <data key="d5">Module boundary: Agent module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="390" width="220" x="30" y="300"/><y:Fill color="#F5F5F5" transparent="false"/><y:BorderStyle color="#555555" type="dashed" width="1.0"/><y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Agent module</y:NodeLabel><y:Shape type="rectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="f3">
+      <data key="d5">Module boundary: Record module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="230" width="680" x="340" y="300"/><y:Fill color="#F5F5F5" transparent="false"/><y:BorderStyle color="#555555" type="dashed" width="1.0"/><y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Record module</y:NodeLabel><y:Shape type="rectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="f4">
+      <data key="d5">Module boundary: Source module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="255" width="880" x="340" y="620"/><y:Fill color="#F5F5F5" transparent="false"/><y:BorderStyle color="#555555" type="dashed" width="1.0"/><y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Source module</y:NodeLabel><y:Shape type="rectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n0">
+      <data key="d5">Controlled vocabulary; Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="160" x="330" y="60"/><y:Fill color="#CC99FF" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Topic</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Judiciary, Executive, ...</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n1">
+      <data key="d5">Class; Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="590" y="60"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Essay</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">mcLeanNumber</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n2">
+      <data key="d5">Class; Publication module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="860" y="60"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Appearance</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">date · printedNumber</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n3">
+      <data key="d5">Class; Publication module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="170" x="1160" y="60"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Publication</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n4">
+      <data key="d5">Class; Publication module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="50" width="120" x="1080" y="200"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Newspaper</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n5">
+      <data key="d5">Class; Publication and Source modules</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="50" width="120" x="1220" y="200"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Edition</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n6">
+      <data key="d5">Class; Agent module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="50" y="330"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Person</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n7">
+      <data key="d5">Class; Agent module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="50" y="470"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Agent</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">hasName</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n8">
+      <data key="d5">Class; Agent module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="50" y="610"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Organization</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n9">
+      <data key="d5">Class; Record module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="360" y="330"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">AuthorshipRecord</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n10">
+      <data key="d5">Class; Record module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="590" y="330"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Record</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">earliestDate · latestDate</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n11">
+      <data key="d5">Class; RevisionRecord module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="820" y="330"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">RevisionRecord</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">wasApproved</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n12">
+      <data key="d5">Class; Record module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="160" x="370" y="450"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">JointRecord</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">inferred: credits 2+</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n13">
+      <data key="d5">Class defined in another module (reference); repeat of Person (Agent module)</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="160" x="830" y="450"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Person</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">see Agent module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n14">
+      <data key="d5">Class; Source module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="88" width="240" x="560" y="640"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Source</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">createdDate · publishedDate
+earliestDate · latestDate
+location</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n15">
+      <data key="d5">Controlled vocabulary; Source module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="160" x="910" y="640"/><y:Fill color="#CC99FF" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">SourceStatus</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Lost, Surviving</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n16">
+      <data key="d5">Class; Source module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="50" width="140" x="400" y="800"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">AuthorshipList</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n17">
+      <data key="d5">Class; Source module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="50" width="140" x="610" y="800"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Study</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n18">
+      <data key="d5">Class; Source module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="50" width="140" x="820" y="800"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Letter</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n19">
+      <data key="d5">Class defined in another module (reference); repeat of Person (Agent module)</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="56" width="150" x="1060" y="800"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Person</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">see Agent module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <edge id="e0" source="n1" target="n0">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-90.0" sy="0.0" tx="80.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">hasTopic</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e1" source="n2" target="n1">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-90.0" sy="0.0" tx="90.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">ofEssay</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="90.0" sy="0.0" tx="-85.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">inPublication</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e3" source="n4" target="n3">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-25.0" tx="0.0" ty="30.0"><y:Point x="1140" y="165"/><y:Point x="1245" y="165"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e4" source="n5" target="n3">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-25.0" tx="0.0" ty="30.0"><y:Point x="1280" y="165"/><y:Point x="1245" y="165"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e5" source="n10" target="n6">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-50.0" sy="-30.0" tx="60.0" ty="-30.0"><y:Point x="630" y="290"/><y:Point x="200" y="290"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">isEndorsedBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e6" source="n10" target="n1">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-30.0" tx="0.0" ty="30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">isAboutEssay</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e7" source="n9" target="n6">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-90.0" sy="-15.0" tx="90.0" ty="-15.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">creditsPerson</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e8" source="n9" target="n6">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-90.0" sy="15.0" tx="90.0" ty="15.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">hasClaimant</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e9" source="n9" target="n10">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="90.0" sy="0.0" tx="-90.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e10" source="n11" target="n10">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-90.0" sy="0.0" tx="90.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e11" source="n12" target="n9">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-30.0" tx="0.0" ty="30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e12" source="n11" target="n13">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-30.0" sy="30.0" tx="-30.0" ty="-30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">madeBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e13" source="n11" target="n13">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="30.0" sy="30.0" tx="30.0" ty="-30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="two_pos" modelPosition="tail" textColor="#000000" visible="true">approvedBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e14" source="n11" target="n5">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="90.0" sy="0.0" tx="20.0" ty="25.0"><y:Point x="1300" y="360"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">inEdition</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e15" source="n10" target="n14">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="30.0" tx="0.0" ty="-44.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">isRecordedIn</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e16" source="n6" target="n7">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="30.0" tx="0.0" ty="-30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e17" source="n8" target="n7">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-30.0" tx="0.0" ty="30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e18" source="n5" target="n14">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="60.0" sy="0.0" tx="80.0" ty="-44.0"><y:Point x="1365" y="225"/><y:Point x="1365" y="600"/><y:Point x="760" y="600"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e19" source="n14" target="n7">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-120.0" sy="6.0" tx="90.0" ty="0.0"><y:Point x="330" y="690"/><y:Point x="330" y="500"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">hasWriter</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e20" source="n14" target="n15">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="120.0" sy="-14.0" tx="-80.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">hasSourceStatus</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e21" source="n14" target="n14">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="100.0" sy="44.0" tx="120.0" ty="30.0"><y:Point x="780" y="762"/><y:Point x="830" y="762"/><y:Point x="830" y="714"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">isDirectlyBasedOn</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e22" source="n16" target="n14">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-25.0" tx="0.0" ty="44.0"><y:Point x="470" y="775"/><y:Point x="680" y="775"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e23" source="n17" target="n14">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-25.0" tx="0.0" ty="44.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e24" source="n18" target="n14">
+      <data key="d9">rdfs:subClassOf</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-25.0" tx="0.0" ty="44.0"><y:Point x="890" y="775"/><y:Point x="680" y="775"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e25" source="n18" target="n19">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="70.0" sy="-10.0" tx="-75.0" ty="-13.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">hasSender</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e26" source="n18" target="n19">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="70.0" sy="13.0" tx="-75.0" ty="10.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">hasRecipient</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+  </graph>
+</graphml>

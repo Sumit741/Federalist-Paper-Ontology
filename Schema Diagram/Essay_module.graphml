@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <key attr.name="description" attr.type="string" for="graph" id="d0"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0">Federalist ontology: Essay module (plain class + controlled vocabulary)</data>
+    <node id="f0">
+      <data key="d5">Module boundary: Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="371" width="610" x="35" y="0"/><y:Fill color="#F5F5F5" transparent="false"/><y:BorderStyle color="#555555" type="dashed" width="1.0"/><y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Essay module</y:NodeLabel><y:Shape type="rectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n0">
+      <data key="d5">Class defined in another module (reference); Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="44" width="140" x="60" y="40"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Record</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Record module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n1">
+      <data key="d5">Class defined in another module (reference); Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="44" width="140" x="480" y="40"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Appearance</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Publication module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n2">
+      <data key="d5">Class; Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="44" width="140" x="270" y="160"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">Essay</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n3">
+      <data key="d5">Controlled vocabulary; Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="56" width="170" x="90" y="290"/><y:Fill color="#CC99FF" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Topic</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Judiciary, Executive, ...</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+    </node>
+    <node id="n4">
+      <data key="d5">Datatype; Essay module</data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="40" width="164" x="388" y="298"/><y:Fill color="#FFFF00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">xsd:positiveInteger</y:NodeLabel><y:Shape type="ellipse"/></y:ShapeNode></data>
+    </node>
+    <edge id="e0" source="n0" target="n2">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="30.0" sy="22.0" tx="-51.0" ty="-22.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">isAboutEssay</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e1" source="n1" target="n2">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-30.0" sy="22.0" tx="51.0" ty="-22.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">ofEssay</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e2" source="n2" target="n3">
+      <data key="d9">object property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="-40.0" sy="22.0" tx="48.0" ty="-28.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">hasTopic</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+    <edge id="e3" source="n2" target="n4">
+      <data key="d9">data property</data>
+      <data key="d10"><y:PolyLineEdge><y:Path sx="40.0" sy="22.0" tx="-24.0" ty="-20.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">mcLeanNumber</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    </edge>
+  </graph>
+</graphml>
