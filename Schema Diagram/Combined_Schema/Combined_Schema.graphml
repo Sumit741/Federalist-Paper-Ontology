@@ -161,10 +161,6 @@ location</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
       <data key="d9">object property</data>
       <data key="d10"><y:PolyLineEdge><y:Path sx="-30.0" sy="30.0" tx="-30.0" ty="-30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">madeBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
     </edge>
-    <edge id="e13" source="n11" target="n13">
-      <data key="d9">object property</data>
-      <data key="d10"><y:PolyLineEdge><y:Path sx="30.0" sy="30.0" tx="30.0" ty="-30.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="two_pos" modelPosition="tail" textColor="#000000" visible="true">approvedBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
-    </edge>
     <edge id="e14" source="n11" target="n5">
       <data key="d9">object property</data>
       <data key="d10"><y:PolyLineEdge><y:Path sx="90.0" sy="0.0" tx="20.0" ty="25.0"><y:Point x="1300" y="360"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">inEdition</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>

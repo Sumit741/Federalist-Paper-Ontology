@@ -47,9 +47,5 @@
       <data key="d9">object property</data>
       <data key="d10"><y:PolyLineEdge><y:Path sx="-30.0" sy="22.0" tx="-30.0" ty="-22.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">madeBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
     </edge>
-    <edge id="e4" source="n1" target="n4">
-      <data key="d9">object property</data>
-      <data key="d10"><y:PolyLineEdge><y:Path sx="30.0" sy="22.0" tx="30.0" ty="-22.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="two_pos" modelPosition="tail" textColor="#000000" visible="true">approvedBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
-    </edge>
   </graph>
 </graphml>
