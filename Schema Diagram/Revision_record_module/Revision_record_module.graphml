@@ -1,43 +1,143 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.25.1-->
   <key attr.name="description" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
   <key attr.name="description" attr.type="string" for="node" id="d5"/>
   <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
   <key attr.name="description" attr.type="string" for="edge" id="d9"/>
   <key for="edge" id="d10" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
-    <data key="d0">Federalist ontology: RevisionRecord module (Record approach, reused)</data>
-    <node id="f0">
-      <data key="d5">Module boundary: RevisionRecord module</data>
-      <data key="d6"><y:ShapeNode><y:Geometry height="409" width="650" x="5" y="0"/><y:Fill color="#F5F5F5" transparent="false"/><y:BorderStyle color="#555555" type="dashed" width="1.0"/><y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">RevisionRecord module</y:NodeLabel><y:Shape type="rectangle"/></y:ShapeNode></data>
-    </node>
+    <data key="d0" xml:space="preserve"><![CDATA[Federalist ontology: RevisionRecord module (Record approach, reused)]]></data>
     <node id="n0">
-      <data key="d5">Class defined in another module (reference); RevisionRecord module</data>
-      <data key="d6"><y:ShapeNode><y:Geometry height="44" width="160" x="260" y="40"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Record</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Record module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+      <data key="d5" xml:space="preserve"><![CDATA[Module boundary: RevisionRecord module]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="409.0" width="650.0" x="5.0" y="0.0"/>
+          <y:Fill color="#F5F5F5" transparent="false"/>
+          <y:BorderStyle color="#555555" type="dashed" width="1.0"/>
+          <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="650.0" x="0.0" xml:space="preserve" y="4.0">RevisionRecord module</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
     </node>
     <node id="n1">
-      <data key="d5">Class; RevisionRecord module</data>
-      <data key="d6"><y:ShapeNode><y:Geometry height="44" width="180" x="250" y="180"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">RevisionRecord</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+      <data key="d5" xml:space="preserve"><![CDATA[Class defined in another module (reference); RevisionRecord module]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="44.0" width="160.0" x="260.0" y="40.0"/>
+          <y:Fill color="#CCFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.33154296875" x="54.834228515625" xml:space="preserve" y="4.0">Record</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="16.955078125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.46435546875" x="37.767822265625" xml:space="preserve" y="23.044921875">Record module</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
     </node>
     <node id="n2">
-      <data key="d5">Class defined in another module (reference); RevisionRecord module</data>
-      <data key="d6"><y:ShapeNode><y:Geometry height="44" width="140" x="30" y="180"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Edition</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Publication module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+      <data key="d5" xml:space="preserve"><![CDATA[Class; RevisionRecord module]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="44.0" width="180.0" x="250.0" y="180.0"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.2763671875" x="36.36181640625" xml:space="preserve" y="12.3447265625">RevisionRecord</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d5" xml:space="preserve"><![CDATA[Class defined in another module (reference); RevisionRecord module]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="44.0" width="140.0" x="30.0" y="180.0"/>
+          <y:Fill color="#CCFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.9853515625" x="44.50732421875" xml:space="preserve" y="4.0">Edition</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="16.955078125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.3408203125" x="16.82958984375" xml:space="preserve" y="23.044921875">Publication module</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
     </node>
     <node id="n4">
-      <data key="d5">Class defined in another module (reference); RevisionRecord module</data>
-      <data key="d6"><y:ShapeNode><y:Geometry height="44" width="160" x="260" y="340"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Person</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Agent module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+      <data key="d5" xml:space="preserve"><![CDATA[Datatype; RevisionRecord module]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="40.0" width="110.0" x="520.0" y="182.0"/>
+          <y:Fill color="#FFFF00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.29541015625" x="14.352294921875" xml:space="preserve" y="10.3447265625">xsd:boolean</y:NodeLabel>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
     </node>
-    <edge id="e0" source="n1" target="n0">
-      <data key="d9">rdfs:subClassOf</data>
-      <data key="d10"><y:PolyLineEdge><y:Path sx="0.0" sy="-22.0" tx="0.0" ty="22.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_delta"/><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    <node id="n5">
+      <data key="d5" xml:space="preserve"><![CDATA[Class defined in another module (reference); RevisionRecord module]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="44.0" width="160.0" x="260.0" y="340.0"/>
+          <y:Fill color="#CCFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="49.6904296875" x="55.15478515625" xml:space="preserve" y="4.0">Person</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="16.955078125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="b" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.08251953125" x="40.458740234375" xml:space="preserve" y="23.044921875">Agent module</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n2" target="n1">
+      <data key="d9" xml:space="preserve"><![CDATA[rdfs:subClassOf]]></data>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="-22.0" tx="0.0" ty="22.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="white_delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
     </edge>
-    <edge id="e1" source="n1" target="n2">
-      <data key="d9">object property</data>
-      <data key="d10"><y:PolyLineEdge><y:Path sx="-90.0" sy="0.0" tx="70.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">inEdition</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    <edge id="e1" source="n2" target="n3">
+      <data key="d9" xml:space="preserve"><![CDATA[object property]]></data>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-90.0" sy="0.0" tx="70.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" height="16.955078125" horizontalTextPosition="center" iconTextGap="4" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.94873046875" x="-65.435302734375" xml:space="preserve" y="-8.4775390625">inEdition<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
     </edge>
-    <edge id="e3" source="n1" target="n4">
-      <data key="d9">object property</data>
-      <data key="d10"><y:PolyLineEdge><y:Path sx="-30.0" sy="22.0" tx="-30.0" ty="-22.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">madeBy</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
+    <edge id="e2" source="n2" target="n4">
+      <data key="d9" xml:space="preserve"><![CDATA[data property]]></data>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="90.0" sy="0.0" tx="-55.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" height="16.955078125" horizontalTextPosition="center" iconTextGap="4" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.5966796875" x="7.20166015625" xml:space="preserve" y="-8.4775390625">wasApproved<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n2" target="n5">
+      <data key="d9" xml:space="preserve"><![CDATA[object property]]></data>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="21.96875" tx="0.0" ty="-22.03125"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" height="16.955078125" horizontalTextPosition="center" iconTextGap="4" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.47021484375" x="-22.735107421875" xml:space="preserve" y="49.525390625">madeBy<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
     </edge>
   </graph>
+  <data key="d7">
+    <y:Resources/>
+  </data>
 </graphml>
