@@ -23,10 +23,6 @@
       <data key="d5">Class defined in another module (reference); RevisionRecord module</data>
       <data key="d6"><y:ShapeNode><y:Geometry height="44" width="140" x="30" y="180"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Edition</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Publication module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
     </node>
-    <node id="n3">
-      <data key="d5">Datatype; RevisionRecord module</data>
-      <data key="d6"><y:ShapeNode><y:Geometry height="40" width="110" x="520" y="182"/><y:Fill color="#FFFF00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="c" visible="true">xsd:boolean</y:NodeLabel><y:Shape type="ellipse"/></y:ShapeNode></data>
-    </node>
     <node id="n4">
       <data key="d5">Class defined in another module (reference); RevisionRecord module</data>
       <data key="d6"><y:ShapeNode><y:Geometry height="44" width="160" x="260" y="340"/><y:Fill color="#CCFFFF" transparent="false"/><y:BorderStyle color="#000000" type="dashed" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">Person</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">Agent module</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
@@ -38,10 +34,6 @@
     <edge id="e1" source="n1" target="n2">
       <data key="d9">object property</data>
       <data key="d10"><y:PolyLineEdge><y:Path sx="-90.0" sy="0.0" tx="70.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">inEdition</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
-    </edge>
-    <edge id="e2" source="n1" target="n3">
-      <data key="d9">data property</data>
-      <data key="d10"><y:PolyLineEdge><y:Path sx="90.0" sy="0.0" tx="-55.0" ty="0.0"></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="standard"/><y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" textColor="#000000" visible="true">wasApproved</y:EdgeLabel><y:BendStyle smoothed="false"/></y:PolyLineEdge></data>
     </edge>
     <edge id="e3" source="n1" target="n4">
       <data key="d9">object property</data>

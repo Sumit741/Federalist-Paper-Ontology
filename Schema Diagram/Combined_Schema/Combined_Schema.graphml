@@ -73,7 +73,7 @@
     </node>
     <node id="n11">
       <data key="d5">Class; RevisionRecord module</data>
-      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="820" y="330"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">RevisionRecord</y:NodeLabel><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="b" visible="true">wasApproved</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
+      <data key="d6"><y:ShapeNode><y:Geometry height="60" width="180" x="820" y="330"/><y:Fill color="#FFCC00" transparent="false"/><y:BorderStyle color="#000000" type="line" width="1.2"/><y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" textColor="#000000" modelName="internal" modelPosition="t" visible="true">RevisionRecord</y:NodeLabel><y:Shape type="roundrectangle"/></y:ShapeNode></data>
     </node>
     <node id="n12">
       <data key="d5">Class; Record module</data>
