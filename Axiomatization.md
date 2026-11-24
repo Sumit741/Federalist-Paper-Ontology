@@ -101,6 +101,9 @@
 - `Source SubClassOf isDirectlyBasedOn max 1 Source`\
   Every source is directly based on at most one source.
 
+- `Source SubClassOf isDirectlyBasedOn only Source`\
+  Anything a Source is directly based on must also be a Source.
+
 - `Source SubClassOf hasWriter some Agent`\
   Every source has at least one agent who wrote it.
 
@@ -137,11 +140,20 @@
 - `AuthorshipRecord SubClassOf creditsPerson some Person`\
   Every authorship record credits at least one person as an author.
 
+- `AuthorshipRecord SubClassOf creditsPerson only Person`\
+  Anyone credited by an authorship record must be a Person.
+
 - `AuthorshipRecord SubClassOf hasClaimant max 1 Person`\
   Each authorship record has at most one person making the claim.
 
+- `AuthorshipRecord SubClassOf hasClaimant only Person`\
+  Anyone listed as the claimant of an authorship record must be a Person.
+
 - `JointRecord SubClassOf AuthorshipRecord`\
   JointRecord is a type of AuthorshipRecord.
+
+- `JointRecord SubClassOf creditsPerson min 2 Person`\
+  Every joint record credits at least two distinct people as authors.
 
 ## Revision Record Module
 
