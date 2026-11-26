@@ -24,6 +24,5 @@ def main():
         except URLError as error:
             parser.exit(1, f"Cannot reach Fuseki. Start code/start_fuseki.sh first. {error}\n")
 
-
 if __name__ == "__main__":
     main()
