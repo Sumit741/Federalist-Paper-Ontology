@@ -1,12 +1,7 @@
 import csv
 from common import *
-from pathlib import Path
 
 csv_path = DATA_DIR / "agents.csv"
-
-
-
-
 
 graph = init_kg()
 # test triple

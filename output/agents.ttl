@@ -56,3 +56,4 @@ fed:Wells a fed:Person ;
 
 fed:WilliamsWhiting a fed:Organization ;
     fed:hasName "Williams & Whiting" .
+

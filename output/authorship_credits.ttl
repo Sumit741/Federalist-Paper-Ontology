@@ -1,0 +1,2108 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:AR_Benson_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_Benson_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_Benson_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Benson_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_Benson_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Benson_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Benson_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Benson_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Benson_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Benson_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Benson_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Corrector_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Corrector_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Corrector_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Corrector_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Corrector_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Corrector_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Gideon_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Gideon_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Gideon_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Gideon_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Gideon_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Gideon_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Gideon_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Jefferson_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Jefferson_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Jefferson_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Jefferson_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Jefferson_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Jefferson_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Jefferson_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_KentPartII_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_KentPartII_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_Kent_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_Kent_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Kent_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_Kent_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Kent_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Kent_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Kent_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_Kent_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_Kent_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_Kent_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_MW_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MW_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_MadisonLetter_1787 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_PortFolio_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_PortFolio_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_PortFolio_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Madison .
+
+fed:AR_PortFolio_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_PortFolio_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_PortFolio_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_PortFolio_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_PortFolio_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_PortFolio_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_PortFolio_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashCopy_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Jay,
+        fed:Madison .
+
+fed:AR_WashCopy_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Jay,
+        fed:Madison .
+
+fed:AR_WashCopy_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashCopy_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton,
+        fed:Jay,
+        fed:Madison .
+
+fed:AR_WashCopy_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashCopy_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashCopy_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashCopy_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashCopy_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashCopy_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashCopy_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_1 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_10 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_11 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_12 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_13 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_14 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_15 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_16 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_17 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_18 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_19 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_2 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashGazette_20 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_21 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_22 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_23 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_24 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_25 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_26 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_27 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_28 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_29 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_3 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashGazette_30 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_31 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_32 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_33 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_34 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_35 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_36 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_37 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_38 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_39 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_4 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashGazette_40 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_41 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_42 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_43 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_44 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_45 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_46 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_47 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_48 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_49 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_5 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashGazette_50 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_51 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_52 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_53 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_54 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_55 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_56 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_57 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_58 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_59 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_6 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_60 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_61 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_62 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_63 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Madison .
+
+fed:AR_WashGazette_64 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Jay .
+
+fed:AR_WashGazette_65 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_66 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_67 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_68 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_69 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_7 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_70 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_71 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_72 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_73 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_74 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_75 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_76 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_77 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_78 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_79 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_8 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_80 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_81 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_82 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_83 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_84 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_85 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:AR_WashGazette_9 a fed:AuthorshipRecord ;
+    fed:creditsPerson fed:Hamilton .
+
+fed:Jay a fed:Person .
+
+fed:Madison a fed:Person .
+
+fed:Hamilton a fed:Person .
+
