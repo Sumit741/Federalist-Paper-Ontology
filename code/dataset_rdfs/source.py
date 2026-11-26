@@ -24,8 +24,9 @@ with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
         graph.add((source, a, pfs["fed"][source_type]))
 
         if source_status:
-            graph.add((source, pfs["fed"]["hasSourceStatus"], pfs["fed"][source_status]))
-            graph.add((source_status, a, pfs["fed"]["SourceStatus"]))
+            status = pfs["fed"][source_status]
+            graph.add((source, pfs["fed"]["hasSourceStatus"], status))
+            graph.add((status, a, pfs["fed"]["SourceStatus"]))
 
         if location:
             graph.add((source, pfs["fed"]["hasLocation"], Literal(location, datatype=XSD.string)))
@@ -43,8 +44,9 @@ with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
             graph.add((source, pfs["fed"]["hasLatestDate"], Literal(latest_date, datatype=XSD.date)))
 
         if based_on_source_id:
-            graph.add((source, pfs["fed"]["isDirectlyBasedOn"], pfs["fed"][based_on_source_id]))
-            graph.add(based_on_source_id, a, pfs["fed"]["Source"])
+            based_on = pfs["fed"][based_on_source_id]
+            graph.add((source, pfs["fed"]["isDirectlyBasedOn"], based_on))
+            graph.add((based_on, a, pfs["fed"]["Source"]))
 
 
 output_file = "sources.ttl"
