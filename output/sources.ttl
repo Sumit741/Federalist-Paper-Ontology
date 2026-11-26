@@ -79,20 +79,28 @@ fed:WilliamsWhitingEdition a fed:Edition ;
     fed:hasLatestDate "1810-12-31"^^xsd:date ;
     fed:hasSourceStatus fed:Surviving .
 
-fed:HamiltonCopy a fed:AuthorshipList ;
+fed:HamiltonCopy a fed:AuthorshipList,
+        fed:Source ;
     fed:hasLatestDate "1804-07-12"^^xsd:date ;
     fed:hasSourceStatus fed:Lost .
 
-fed:HopkinsLetter1847 a fed:Letter ;
+fed:HopkinsLetter1847 a fed:Letter,
+        fed:Source ;
     fed:hasEarliestDate "1847-01-01"^^xsd:date ;
     fed:hasLatestDate "1847-12-31"^^xsd:date .
 
-fed:MadisonCopy a fed:AuthorshipList ;
+fed:MadisonCopy a fed:AuthorshipList,
+        fed:Source ;
     fed:hasLatestDate "1818-12-31"^^xsd:date ;
     fed:hasLocation "Library of Congress"^^xsd:string ;
     fed:hasSourceStatus fed:Surviving .
 
-fed:McLeanEdition a fed:Edition ;
+fed:McLeanEdition a fed:Edition,
+        fed:Source ;
     fed:hasPublishedDate "1788-03-22"^^xsd:date ;
     fed:hasSourceStatus fed:Surviving .
+
+fed:Lost a fed:SourceStatus .
+
+fed:Surviving a fed:SourceStatus .
 

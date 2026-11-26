@@ -1,0 +1,76 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:BensonList a fed:Source ;
+    fed:hasWriter fed:Hamilton .
+
+fed:DawsonEdition a fed:Source ;
+    fed:hasWriter fed:Dawson .
+
+fed:GideonEdition a fed:Source ;
+    fed:hasWriter fed:JacobGideon .
+
+fed:HamiltonCopy a fed:Source ;
+    fed:hasWriter fed:Hamilton .
+
+fed:HopkinsEdition a fed:Source ;
+    fed:hasWriter fed:Hopkins .
+
+fed:JCHamiltonEdition a fed:Source ;
+    fed:hasWriter fed:JCHamilton .
+
+fed:JeffersonList a fed:Source ;
+    fed:hasWriter fed:Jefferson .
+
+fed:KentList a fed:Source ;
+    fed:hasWriter fed:Kent .
+
+fed:MadisonCopy a fed:Source ;
+    fed:hasWriter fed:Madison .
+
+fed:McLeanEdition a fed:Source ;
+    fed:hasWriter fed:McLeanFirm .
+
+fed:MostellerWallace1964 a fed:Source ;
+    fed:hasWriter fed:Mosteller,
+        fed:Wallace .
+
+fed:SyrettCooke1962 a fed:Source ;
+    fed:hasWriter fed:Cooke,
+        fed:Syrett .
+
+fed:TieboutEdition a fed:Source ;
+    fed:hasWriter fed:Tiebout .
+
+fed:WilliamsWhitingEdition a fed:Source ;
+    fed:hasWriter fed:WilliamsWhiting .
+
+fed:Cooke a fed:Agent .
+
+fed:Dawson a fed:Agent .
+
+fed:Hopkins a fed:Agent .
+
+fed:JCHamilton a fed:Agent .
+
+fed:JacobGideon a fed:Agent .
+
+fed:Jefferson a fed:Agent .
+
+fed:Kent a fed:Agent .
+
+fed:Madison a fed:Agent .
+
+fed:McLeanFirm a fed:Agent .
+
+fed:Mosteller a fed:Agent .
+
+fed:Syrett a fed:Agent .
+
+fed:Tiebout a fed:Agent .
+
+fed:Wallace a fed:Agent .
+
+fed:WilliamsWhiting a fed:Agent .
+
+fed:Hamilton a fed:Agent .
+
