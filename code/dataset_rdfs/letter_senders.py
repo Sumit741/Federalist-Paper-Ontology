@@ -30,5 +30,4 @@ graph.serialize(
     destination=OUTPUT_DIR / output_file
 )
 
-print(f"Total triples: {len(graph)}")
 print(f"Generated: {OUTPUT_DIR / output_file}")
