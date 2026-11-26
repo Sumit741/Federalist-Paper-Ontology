@@ -1,0 +1,258 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+fed:Essay1 a fed:Essay ;
+    fed:hasMcLeanNumber "1"^^xsd:positiveInteger .
+
+fed:Essay10 a fed:Essay ;
+    fed:hasMcLeanNumber "10"^^xsd:positiveInteger .
+
+fed:Essay11 a fed:Essay ;
+    fed:hasMcLeanNumber "11"^^xsd:positiveInteger .
+
+fed:Essay12 a fed:Essay ;
+    fed:hasMcLeanNumber "12"^^xsd:positiveInteger .
+
+fed:Essay13 a fed:Essay ;
+    fed:hasMcLeanNumber "13"^^xsd:positiveInteger .
+
+fed:Essay14 a fed:Essay ;
+    fed:hasMcLeanNumber "14"^^xsd:positiveInteger .
+
+fed:Essay15 a fed:Essay ;
+    fed:hasMcLeanNumber "15"^^xsd:positiveInteger .
+
+fed:Essay16 a fed:Essay ;
+    fed:hasMcLeanNumber "16"^^xsd:positiveInteger .
+
+fed:Essay17 a fed:Essay ;
+    fed:hasMcLeanNumber "17"^^xsd:positiveInteger .
+
+fed:Essay18 a fed:Essay ;
+    fed:hasMcLeanNumber "18"^^xsd:positiveInteger .
+
+fed:Essay19 a fed:Essay ;
+    fed:hasMcLeanNumber "19"^^xsd:positiveInteger .
+
+fed:Essay2 a fed:Essay ;
+    fed:hasMcLeanNumber "2"^^xsd:positiveInteger .
+
+fed:Essay20 a fed:Essay ;
+    fed:hasMcLeanNumber "20"^^xsd:positiveInteger .
+
+fed:Essay21 a fed:Essay ;
+    fed:hasMcLeanNumber "21"^^xsd:positiveInteger .
+
+fed:Essay22 a fed:Essay ;
+    fed:hasMcLeanNumber "22"^^xsd:positiveInteger .
+
+fed:Essay23 a fed:Essay ;
+    fed:hasMcLeanNumber "23"^^xsd:positiveInteger .
+
+fed:Essay24 a fed:Essay ;
+    fed:hasMcLeanNumber "24"^^xsd:positiveInteger .
+
+fed:Essay25 a fed:Essay ;
+    fed:hasMcLeanNumber "25"^^xsd:positiveInteger .
+
+fed:Essay26 a fed:Essay ;
+    fed:hasMcLeanNumber "26"^^xsd:positiveInteger .
+
+fed:Essay27 a fed:Essay ;
+    fed:hasMcLeanNumber "27"^^xsd:positiveInteger .
+
+fed:Essay28 a fed:Essay ;
+    fed:hasMcLeanNumber "28"^^xsd:positiveInteger .
+
+fed:Essay29 a fed:Essay ;
+    fed:hasMcLeanNumber "29"^^xsd:positiveInteger .
+
+fed:Essay3 a fed:Essay ;
+    fed:hasMcLeanNumber "3"^^xsd:positiveInteger .
+
+fed:Essay30 a fed:Essay ;
+    fed:hasMcLeanNumber "30"^^xsd:positiveInteger .
+
+fed:Essay31 a fed:Essay ;
+    fed:hasMcLeanNumber "31"^^xsd:positiveInteger .
+
+fed:Essay32 a fed:Essay ;
+    fed:hasMcLeanNumber "32"^^xsd:positiveInteger .
+
+fed:Essay33 a fed:Essay ;
+    fed:hasMcLeanNumber "33"^^xsd:positiveInteger .
+
+fed:Essay34 a fed:Essay ;
+    fed:hasMcLeanNumber "34"^^xsd:positiveInteger .
+
+fed:Essay35 a fed:Essay ;
+    fed:hasMcLeanNumber "35"^^xsd:positiveInteger .
+
+fed:Essay36 a fed:Essay ;
+    fed:hasMcLeanNumber "36"^^xsd:positiveInteger .
+
+fed:Essay37 a fed:Essay ;
+    fed:hasMcLeanNumber "37"^^xsd:positiveInteger .
+
+fed:Essay38 a fed:Essay ;
+    fed:hasMcLeanNumber "38"^^xsd:positiveInteger .
+
+fed:Essay39 a fed:Essay ;
+    fed:hasMcLeanNumber "39"^^xsd:positiveInteger .
+
+fed:Essay4 a fed:Essay ;
+    fed:hasMcLeanNumber "4"^^xsd:positiveInteger .
+
+fed:Essay40 a fed:Essay ;
+    fed:hasMcLeanNumber "40"^^xsd:positiveInteger .
+
+fed:Essay41 a fed:Essay ;
+    fed:hasMcLeanNumber "41"^^xsd:positiveInteger .
+
+fed:Essay42 a fed:Essay ;
+    fed:hasMcLeanNumber "42"^^xsd:positiveInteger .
+
+fed:Essay43 a fed:Essay ;
+    fed:hasMcLeanNumber "43"^^xsd:positiveInteger .
+
+fed:Essay44 a fed:Essay ;
+    fed:hasMcLeanNumber "44"^^xsd:positiveInteger .
+
+fed:Essay45 a fed:Essay ;
+    fed:hasMcLeanNumber "45"^^xsd:positiveInteger .
+
+fed:Essay46 a fed:Essay ;
+    fed:hasMcLeanNumber "46"^^xsd:positiveInteger .
+
+fed:Essay47 a fed:Essay ;
+    fed:hasMcLeanNumber "47"^^xsd:positiveInteger .
+
+fed:Essay48 a fed:Essay ;
+    fed:hasMcLeanNumber "48"^^xsd:positiveInteger .
+
+fed:Essay49 a fed:Essay ;
+    fed:hasMcLeanNumber "49"^^xsd:positiveInteger .
+
+fed:Essay5 a fed:Essay ;
+    fed:hasMcLeanNumber "5"^^xsd:positiveInteger .
+
+fed:Essay50 a fed:Essay ;
+    fed:hasMcLeanNumber "50"^^xsd:positiveInteger .
+
+fed:Essay51 a fed:Essay ;
+    fed:hasMcLeanNumber "51"^^xsd:positiveInteger .
+
+fed:Essay52 a fed:Essay ;
+    fed:hasMcLeanNumber "52"^^xsd:positiveInteger .
+
+fed:Essay53 a fed:Essay ;
+    fed:hasMcLeanNumber "53"^^xsd:positiveInteger .
+
+fed:Essay54 a fed:Essay ;
+    fed:hasMcLeanNumber "54"^^xsd:positiveInteger .
+
+fed:Essay55 a fed:Essay ;
+    fed:hasMcLeanNumber "55"^^xsd:positiveInteger .
+
+fed:Essay56 a fed:Essay ;
+    fed:hasMcLeanNumber "56"^^xsd:positiveInteger .
+
+fed:Essay57 a fed:Essay ;
+    fed:hasMcLeanNumber "57"^^xsd:positiveInteger .
+
+fed:Essay58 a fed:Essay ;
+    fed:hasMcLeanNumber "58"^^xsd:positiveInteger .
+
+fed:Essay59 a fed:Essay ;
+    fed:hasMcLeanNumber "59"^^xsd:positiveInteger .
+
+fed:Essay6 a fed:Essay ;
+    fed:hasMcLeanNumber "6"^^xsd:positiveInteger .
+
+fed:Essay60 a fed:Essay ;
+    fed:hasMcLeanNumber "60"^^xsd:positiveInteger .
+
+fed:Essay61 a fed:Essay ;
+    fed:hasMcLeanNumber "61"^^xsd:positiveInteger .
+
+fed:Essay62 a fed:Essay ;
+    fed:hasMcLeanNumber "62"^^xsd:positiveInteger .
+
+fed:Essay63 a fed:Essay ;
+    fed:hasMcLeanNumber "63"^^xsd:positiveInteger .
+
+fed:Essay64 a fed:Essay ;
+    fed:hasMcLeanNumber "64"^^xsd:positiveInteger .
+
+fed:Essay65 a fed:Essay ;
+    fed:hasMcLeanNumber "65"^^xsd:positiveInteger .
+
+fed:Essay66 a fed:Essay ;
+    fed:hasMcLeanNumber "66"^^xsd:positiveInteger .
+
+fed:Essay67 a fed:Essay ;
+    fed:hasMcLeanNumber "67"^^xsd:positiveInteger .
+
+fed:Essay68 a fed:Essay ;
+    fed:hasMcLeanNumber "68"^^xsd:positiveInteger .
+
+fed:Essay69 a fed:Essay ;
+    fed:hasMcLeanNumber "69"^^xsd:positiveInteger .
+
+fed:Essay7 a fed:Essay ;
+    fed:hasMcLeanNumber "7"^^xsd:positiveInteger .
+
+fed:Essay70 a fed:Essay ;
+    fed:hasMcLeanNumber "70"^^xsd:positiveInteger .
+
+fed:Essay71 a fed:Essay ;
+    fed:hasMcLeanNumber "71"^^xsd:positiveInteger .
+
+fed:Essay72 a fed:Essay ;
+    fed:hasMcLeanNumber "72"^^xsd:positiveInteger .
+
+fed:Essay73 a fed:Essay ;
+    fed:hasMcLeanNumber "73"^^xsd:positiveInteger .
+
+fed:Essay74 a fed:Essay ;
+    fed:hasMcLeanNumber "74"^^xsd:positiveInteger .
+
+fed:Essay75 a fed:Essay ;
+    fed:hasMcLeanNumber "75"^^xsd:positiveInteger .
+
+fed:Essay76 a fed:Essay ;
+    fed:hasMcLeanNumber "76"^^xsd:positiveInteger .
+
+fed:Essay77 a fed:Essay ;
+    fed:hasMcLeanNumber "77"^^xsd:positiveInteger .
+
+fed:Essay78 a fed:Essay ;
+    fed:hasMcLeanNumber "78"^^xsd:positiveInteger .
+
+fed:Essay79 a fed:Essay ;
+    fed:hasMcLeanNumber "79"^^xsd:positiveInteger .
+
+fed:Essay8 a fed:Essay ;
+    fed:hasMcLeanNumber "8"^^xsd:positiveInteger .
+
+fed:Essay80 a fed:Essay ;
+    fed:hasMcLeanNumber "80"^^xsd:positiveInteger .
+
+fed:Essay81 a fed:Essay ;
+    fed:hasMcLeanNumber "81"^^xsd:positiveInteger .
+
+fed:Essay82 a fed:Essay ;
+    fed:hasMcLeanNumber "82"^^xsd:positiveInteger .
+
+fed:Essay83 a fed:Essay ;
+    fed:hasMcLeanNumber "83"^^xsd:positiveInteger .
+
+fed:Essay84 a fed:Essay ;
+    fed:hasMcLeanNumber "84"^^xsd:positiveInteger .
+
+fed:Essay85 a fed:Essay ;
+    fed:hasMcLeanNumber "85"^^xsd:positiveInteger .
+
+fed:Essay9 a fed:Essay ;
+    fed:hasMcLeanNumber "9"^^xsd:positiveInteger .
+
