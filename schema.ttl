@@ -1,0 +1,207 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Project namespace proposed for local use; no w3id registration is implied.
+<https://w3id.org/federalist-paper-ontology/> a owl:Ontology ;
+    rdfs:label "Federalist Papers Ontology" ;
+    rdfs:comment "Translation of the supplied six-module axiom set. Spelling and Manchester syntax typos are normalized; no additional domain, range, cardinality, or disjointness axioms are imposed." .
+
+# Class declarations
+fed:Appearance a owl:Class .
+fed:Publication a owl:Class .
+fed:Newspaper a owl:Class .
+fed:Edition a owl:Class .
+fed:Essay a owl:Class .
+fed:Topic a owl:Class .
+fed:Agent a owl:Class .
+fed:Person a owl:Class .
+fed:Organization a owl:Class .
+fed:Source a owl:Class .
+fed:SourceStatus a owl:Class .
+fed:AuthorshipList a owl:Class .
+fed:Study a owl:Class .
+fed:Letter a owl:Class .
+fed:Record a owl:Class .
+fed:AuthorshipRecord a owl:Class .
+fed:JointRecord a owl:Class .
+fed:RevisionRecord a owl:Class .
+
+# Property declarations (scoped restrictions appear below).
+fed:inPublication a owl:ObjectProperty .
+fed:ofEssay a owl:ObjectProperty .
+fed:hasTopic a owl:ObjectProperty .
+fed:hasSourceStatus a owl:ObjectProperty .
+fed:hasRecipient a owl:ObjectProperty .
+fed:hasSender a owl:ObjectProperty .
+fed:isDirectlyBasedOn a owl:ObjectProperty .
+fed:hasWriter a owl:ObjectProperty .
+fed:endorsedBy a owl:ObjectProperty .
+fed:isRecordedIn a owl:ObjectProperty .
+fed:isAboutEssay a owl:ObjectProperty .
+fed:creditsPerson a owl:ObjectProperty .
+fed:hasClaimant a owl:ObjectProperty .
+fed:inEdition a owl:ObjectProperty .
+fed:madeBy a owl:ObjectProperty .
+
+fed:hasDate a owl:DatatypeProperty .
+fed:hasPrintedNumber a owl:DatatypeProperty .
+fed:hasMcLeanNumber a owl:DatatypeProperty .
+fed:hasName a owl:DatatypeProperty .
+fed:hasLatestDate a owl:DatatypeProperty .
+fed:hasEarliestDate a owl:DatatypeProperty .
+fed:hasPublishedDate a owl:DatatypeProperty .
+fed:hasCreatedDate a owl:DatatypeProperty .
+fed:hasLocation a owl:DatatypeProperty .
+fed:wasApproved a owl:DatatypeProperty .
+
+# PUBLICATION MODULE
+# Appearance SubClassOf inPublication only Publication
+fed:Appearance rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:inPublication ; owl:allValuesFrom fed:Publication ] .
+
+fed:Newspaper rdfs:subClassOf fed:Publication .
+fed:Edition rdfs:subClassOf fed:Publication .
+
+# Appearance SubClassOf hasDate max 1 xsd:date
+fed:Appearance rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasDate ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:date ] .
+
+# Appearance SubClassOf hasPrintedNumber max 1 xsd:positiveInteger
+fed:Appearance rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasPrintedNumber ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:positiveInteger ] .
+
+# Essay SubClassOf inverse ofEssay some Appearance
+fed:Essay rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty [ owl:inverseOf fed:ofEssay ] ; owl:someValuesFrom fed:Appearance ] .
+
+fed:Newspaper owl:disjointWith fed:Edition .
+
+# ESSAY MODULE
+fed:Essay rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasTopic ; owl:allValuesFrom fed:Topic ] .
+
+fed:Essay rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasMcLeanNumber ; owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:positiveInteger ] .
+
+# AGENT MODULE
+fed:Person rdfs:subClassOf fed:Agent .
+fed:Organization rdfs:subClassOf fed:Agent .
+
+fed:Agent rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasName ; owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:string ] .
+
+# SOURCE MODULE
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasLatestDate ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:date ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasEarliestDate ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:date ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasPublishedDate ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:date ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasCreatedDate ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:date ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasSourceStatus ; owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onClass fed:SourceStatus ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasLocation ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:string ] .
+
+fed:AuthorshipList rdfs:subClassOf fed:Source .
+fed:Edition rdfs:subClassOf fed:Source .
+fed:Study rdfs:subClassOf fed:Source .
+fed:Letter rdfs:subClassOf fed:Source .
+
+fed:Letter rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasRecipient ; owl:allValuesFrom fed:Person ] .
+
+fed:Letter rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasSender ; owl:allValuesFrom fed:Person ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:isDirectlyBasedOn ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onClass fed:Source ] .
+
+# Source SubClassOf isDirectlyBasedOn only Source
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:isDirectlyBasedOn ; owl:allValuesFrom fed:Source ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasWriter ; owl:someValuesFrom fed:Agent ] .
+
+fed:Source rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasWriter ; owl:allValuesFrom fed:Agent ] .
+
+fed:hasSender rdfs:subPropertyOf fed:hasWriter .
+
+# RECORD MODULE
+fed:Record rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasEarliestDate ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:date ] .
+
+fed:Record rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasLatestDate ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:date ] .
+
+fed:Record rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:endorsedBy ; owl:allValuesFrom fed:Person ] .
+
+fed:Record rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:isRecordedIn ; owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onClass fed:Source ] .
+
+fed:Record rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:isAboutEssay ; owl:allValuesFrom fed:Essay ] .
+
+fed:AuthorshipRecord rdfs:subClassOf fed:Record .
+
+fed:AuthorshipRecord rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:creditsPerson ; owl:someValuesFrom fed:Person ] .
+
+# AuthorshipRecord SubClassOf creditsPerson only Person
+fed:AuthorshipRecord rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:creditsPerson ; owl:allValuesFrom fed:Person ] .
+
+fed:AuthorshipRecord rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasClaimant ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onClass fed:Person ] .
+
+# AuthorshipRecord SubClassOf hasClaimant only Person
+fed:AuthorshipRecord rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:hasClaimant ; owl:allValuesFrom fed:Person ] .
+
+fed:JointRecord rdfs:subClassOf fed:AuthorshipRecord .
+
+# JointRecord SubClassOf creditsPerson min 2 Person
+fed:JointRecord rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:creditsPerson ; owl:minQualifiedCardinality "2"^^xsd:nonNegativeInteger ;
+    owl:onClass fed:Person ] .
+
+# REVISION RECORD MODULE
+fed:RevisionRecord rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:wasApproved ; owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    owl:onDataRange xsd:boolean ] .
+
+# Scoped domain: inEdition some Edition SubClassOf RevisionRecord
+[ a owl:Restriction ; owl:onProperty fed:inEdition ;
+    owl:someValuesFrom fed:Edition ] rdfs:subClassOf fed:RevisionRecord .
+
+fed:RevisionRecord rdfs:subClassOf [ a owl:Restriction ;
+    owl:onProperty fed:madeBy ; owl:allValuesFrom fed:Person ] .
+
+fed:RevisionRecord rdfs:subClassOf fed:Record .

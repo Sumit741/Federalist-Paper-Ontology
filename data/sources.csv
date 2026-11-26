@@ -1,0 +1,21 @@
+source_id,source_type,source_status,location,created_date,published_date,earliest_date,latest_date,based_on_source_id
+BensonList,AuthorshipList,Lost,,,1817-03-25,1804-01-01,1804-07-12,
+HamiltonCopy,AuthorshipList,Lost,,,,,1804-07-12,
+PortFolioList,AuthorshipList,Surviving,,,1807-11-14,,,HamiltonCopy
+KentList,AuthorshipList,Surviving,Columbia University Libraries,,,,1804-07-12,
+WashingtonCopyList,AuthorshipList,Surviving,National Archives,,,,,
+JeffersonList,AuthorshipList,Surviving,"Library of Congress, Rare Book Room",,,,,
+CorrectorList,AuthorshipList,Surviving,,,1817-03-20,,,
+WashingtonGazetteList,AuthorshipList,Surviving,,,1817-12-15,,,
+MadisonCopy,AuthorshipList,Surviving,Library of Congress,,,,1818-12-31,
+MadisonToRandolph1787,Letter,Surviving,,1787-12-02,,,,
+HopkinsLetter1847,Letter,,,,,1847-01-01,1847-12-31,
+MostellerWallace1964,Study,Surviving,,,,1964-01-01,1964-12-31,
+SyrettCooke1962,Study,Surviving,,,,1962-01-01,1962-12-31,
+McLeanEdition,Edition,Surviving,,,1788-03-22,,,
+TieboutEdition,Edition,Surviving,,,,1799-01-01,1799-12-31,McLeanEdition
+HopkinsEdition,Edition,Surviving,,,1802-12-08,,,
+WilliamsWhitingEdition,Edition,Surviving,,,,1810-01-01,1810-12-31,
+GideonEdition,Edition,Surviving,,,,1818-01-01,1818-12-31,MadisonCopy
+DawsonEdition,Edition,Surviving,,,,1864-01-01,1864-12-31,
+JCHamiltonEdition,Edition,Surviving,,,,1865-01-01,1865-12-31,HopkinsLetter1847

@@ -1,0 +1,5 @@
+record_id,essay_id,source_id,edition_id,was_approved,earliest_date,latest_date
+RR_McLean_Hamilton,,SyrettCooke1962,McLeanEdition,,,
+RR_Hopkins_JCH,,JCHamiltonEdition,HopkinsEdition,true,,
+RR_Hopkins_Dawson,,DawsonEdition,HopkinsEdition,false,,
+RR_Gideon_Madison,,SyrettCooke1962,GideonEdition,,,

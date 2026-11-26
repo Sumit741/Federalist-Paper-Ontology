@@ -1,0 +1,58 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:Coleman a fed:Person ;
+    fed:hasName "William Coleman" .
+
+fed:Cooke a fed:Person ;
+    fed:hasName "Jacob E. Cooke" .
+
+fed:Dawson a fed:Person ;
+    fed:hasName "Henry B. Dawson" .
+
+fed:Hamilton a fed:Person ;
+    fed:hasName "Alexander Hamilton" .
+
+fed:Hopkins a fed:Person ;
+    fed:hasName "George F. Hopkins" .
+
+fed:JCHamilton a fed:Person ;
+    fed:hasName "John Church Hamilton" .
+
+fed:JacobGideon a fed:Person ;
+    fed:hasName "Jacob Gideon" .
+
+fed:Jay a fed:Person ;
+    fed:hasName "John Jay" .
+
+fed:Jefferson a fed:Person ;
+    fed:hasName "Thomas Jefferson" .
+
+fed:Kent a fed:Person ;
+    fed:hasName "James Kent" .
+
+fed:Madison a fed:Person ;
+    fed:hasName "James Madison" .
+
+fed:McLeanFirm a fed:Organization ;
+    fed:hasName "J. and A. McLean" .
+
+fed:Mosteller a fed:Person ;
+    fed:hasName "Frederick Mosteller" .
+
+fed:Randolph a fed:Person ;
+    fed:hasName "Edmund Randolph" .
+
+fed:Syrett a fed:Person ;
+    fed:hasName "Harold C. Syrett" .
+
+fed:Tiebout a fed:Person ;
+    fed:hasName "John Tiebout" .
+
+fed:Wallace a fed:Person ;
+    fed:hasName "David L. Wallace" .
+
+fed:Wells a fed:Person ;
+    fed:hasName "John Wells" .
+
+fed:WilliamsWhiting a fed:Organization ;
+    fed:hasName "Williams & Whiting" .

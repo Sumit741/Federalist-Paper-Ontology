@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+.runtime/
+__pycache__/
+.venv/
+.venv-*/
+venv/
+env/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
