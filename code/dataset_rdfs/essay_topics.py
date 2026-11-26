@@ -28,5 +28,3 @@ graph.serialize(
     encoding="utf-8",
     destination=OUTPUT_DIR / output_file
 )
-
-print(f"Generated: {OUTPUT_DIR / output_file}")
