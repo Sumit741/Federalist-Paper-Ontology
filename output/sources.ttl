@@ -1,0 +1,98 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+fed:BensonList a fed:AuthorshipList ;
+    fed:hasEarliestDate "1804-01-01"^^xsd:date ;
+    fed:hasLatestDate "1804-07-12"^^xsd:date ;
+    fed:hasPublishedDate "1817-03-25"^^xsd:date ;
+    fed:hasSourceStatus fed:Lost .
+
+fed:CorrectorList a fed:AuthorshipList ;
+    fed:hasPublishedDate "1817-03-20"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:DawsonEdition a fed:Edition ;
+    fed:hasEarliestDate "1864-01-01"^^xsd:date ;
+    fed:hasLatestDate "1864-12-31"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:GideonEdition a fed:Edition ;
+    fed:hasEarliestDate "1818-01-01"^^xsd:date ;
+    fed:hasLatestDate "1818-12-31"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving ;
+    fed:isDirectlyBasedOn fed:MadisonCopy .
+
+fed:HopkinsEdition a fed:Edition ;
+    fed:hasPublishedDate "1802-12-08"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:JCHamiltonEdition a fed:Edition ;
+    fed:hasEarliestDate "1865-01-01"^^xsd:date ;
+    fed:hasLatestDate "1865-12-31"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving ;
+    fed:isDirectlyBasedOn fed:HopkinsLetter1847 .
+
+fed:JeffersonList a fed:AuthorshipList ;
+    fed:hasLocation "Library of Congress, Rare Book Room"^^xsd:string ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:KentList a fed:AuthorshipList ;
+    fed:hasLatestDate "1804-07-12"^^xsd:date ;
+    fed:hasLocation "Columbia University Libraries"^^xsd:string ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:MadisonToRandolph1787 a fed:Letter ;
+    fed:hasCreatedDate "1787-12-02"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:MostellerWallace1964 a fed:Study ;
+    fed:hasEarliestDate "1964-01-01"^^xsd:date ;
+    fed:hasLatestDate "1964-12-31"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:PortFolioList a fed:AuthorshipList ;
+    fed:hasPublishedDate "1807-11-14"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving ;
+    fed:isDirectlyBasedOn fed:HamiltonCopy .
+
+fed:SyrettCooke1962 a fed:Study ;
+    fed:hasEarliestDate "1962-01-01"^^xsd:date ;
+    fed:hasLatestDate "1962-12-31"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:TieboutEdition a fed:Edition ;
+    fed:hasEarliestDate "1799-01-01"^^xsd:date ;
+    fed:hasLatestDate "1799-12-31"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving ;
+    fed:isDirectlyBasedOn fed:McLeanEdition .
+
+fed:WashingtonCopyList a fed:AuthorshipList ;
+    fed:hasLocation "National Archives"^^xsd:string ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:WashingtonGazetteList a fed:AuthorshipList ;
+    fed:hasPublishedDate "1817-12-15"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:WilliamsWhitingEdition a fed:Edition ;
+    fed:hasEarliestDate "1810-01-01"^^xsd:date ;
+    fed:hasLatestDate "1810-12-31"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:HamiltonCopy a fed:AuthorshipList ;
+    fed:hasLatestDate "1804-07-12"^^xsd:date ;
+    fed:hasSourceStatus fed:Lost .
+
+fed:HopkinsLetter1847 a fed:Letter ;
+    fed:hasEarliestDate "1847-01-01"^^xsd:date ;
+    fed:hasLatestDate "1847-12-31"^^xsd:date .
+
+fed:MadisonCopy a fed:AuthorshipList ;
+    fed:hasLatestDate "1818-12-31"^^xsd:date ;
+    fed:hasLocation "Library of Congress"^^xsd:string ;
+    fed:hasSourceStatus fed:Surviving .
+
+fed:McLeanEdition a fed:Edition ;
+    fed:hasPublishedDate "1788-03-22"^^xsd:date ;
+    fed:hasSourceStatus fed:Surviving .
+
