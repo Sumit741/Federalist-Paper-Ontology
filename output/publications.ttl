@@ -1,0 +1,35 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:DailyAdvertiser a fed:Newspaper ;
+    fed:label "The Daily Advertiser" .
+
+fed:DawsonEdition a fed:Edition ;
+    fed:label "The Fœderalist (Henry B. Dawson, 1864)" .
+
+fed:GideonEdition a fed:Edition ;
+    fed:label "The Federalist (Jacob Gideon, 1818)" .
+
+fed:HopkinsEdition a fed:Edition ;
+    fed:label "The Federalist (George F. Hopkins, 1802)" .
+
+fed:IndependentJournal a fed:Newspaper ;
+    fed:label "The Independent Journal: or, the General Advertiser" .
+
+fed:JCHamiltonEdition a fed:Edition ;
+    fed:label "The Federalist (John C. Hamilton, 1865)" .
+
+fed:McLeanEdition a fed:Edition ;
+    fed:label "The Federalist (J. and A. McLean, 1788)" .
+
+fed:NewYorkJournal a fed:Newspaper ;
+    fed:label "The New-York Journal, and Daily Patriotic Register" .
+
+fed:NewYorkPacket a fed:Newspaper ;
+    fed:label "The New-York Packet" .
+
+fed:TieboutEdition a fed:Edition ;
+    fed:label "The Federalist (John Tiebout reissue, 1799)" .
+
+fed:WilliamsWhitingEdition a fed:Edition ;
+    fed:label "The Federalist (Williams & Whiting, 1810)" .
+

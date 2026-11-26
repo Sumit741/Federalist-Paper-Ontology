@@ -1,0 +1,22 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:RR_Gideon_Madison a fed:RevisionRecord ;
+    fed:madeBy fed:Madison .
+
+fed:RR_Hopkins_Dawson a fed:RevisionRecord ;
+    fed:madeBy fed:Coleman .
+
+fed:RR_Hopkins_JCH a fed:RevisionRecord ;
+    fed:madeBy fed:Wells .
+
+fed:RR_McLean_Hamilton a fed:RevisionRecord ;
+    fed:madeBy fed:Hamilton .
+
+fed:Coleman a fed:Person .
+
+fed:Hamilton a fed:Person .
+
+fed:Madison a fed:Person .
+
+fed:Wells a fed:Person .
+

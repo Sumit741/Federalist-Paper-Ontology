@@ -1,0 +1,519 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:AR_Gideon_1 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_10 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_11 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_12 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_13 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_14 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_15 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_16 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_17 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_18 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_19 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_2 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_20 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_21 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_22 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_23 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_24 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_25 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_26 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_27 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_28 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_29 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_3 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_30 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_31 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_32 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_33 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_34 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_35 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_36 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_37 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_38 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_39 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_4 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_40 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_41 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_42 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_43 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_44 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_45 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_46 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_47 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_48 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_49 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_5 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_50 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_51 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_52 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_53 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_54 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_55 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_56 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_57 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_58 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_59 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_6 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_60 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_61 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_62 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_63 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_64 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_65 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_66 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_67 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_68 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_69 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_7 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_70 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_71 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_72 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_73 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_74 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_75 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_76 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_77 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_78 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_79 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_8 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_80 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_81 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_82 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_83 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_84 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_85 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Gideon_9 a fed:Record ;
+    fed:endorsedBy fed:Madison .
+
+fed:AR_Kent_1 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_10 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_11 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_12 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_13 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_14 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_15 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_16 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_17 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_18 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_19 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_2 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_20 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_21 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_22 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_23 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_24 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_25 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_26 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_27 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_28 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_29 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_3 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_30 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_31 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_32 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_33 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_34 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_35 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_36 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_37 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_38 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_39 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_4 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_40 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_41 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_42 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_43 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_44 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_45 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_46 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_47 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_48 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_49 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_5 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_50 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_51 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_52 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_53 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_54 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_55 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_56 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_57 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_58 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_59 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_6 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_60 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_61 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_62 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_63 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_64 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_65 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_66 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_67 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_68 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_69 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_7 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_70 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_71 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_72 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_73 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_74 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_75 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_76 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_77 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_78 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_79 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_8 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_80 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_81 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_82 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_83 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_84 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_85 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:AR_Kent_9 a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:RR_Hopkins_JCH a fed:Record ;
+    fed:endorsedBy fed:Hamilton .
+
+fed:Madison a fed:Person .
+
+fed:Hamilton a fed:Person .
+
