@@ -1,0 +1,297 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:Essay1 a fed:Essay ;
+    fed:hasTopic fed:Introduction .
+
+fed:Essay10 a fed:Essay ;
+    fed:hasTopic fed:DomesticFaction .
+
+fed:Essay11 a fed:Essay ;
+    fed:hasTopic fed:CommerceAndNavy .
+
+fed:Essay12 a fed:Essay ;
+    fed:hasTopic fed:Revenue .
+
+fed:Essay13 a fed:Essay ;
+    fed:hasTopic fed:EconomyInGovernment .
+
+fed:Essay14 a fed:Essay ;
+    fed:hasTopic fed:ExtentOfTerritory .
+
+fed:Essay15 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay16 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay17 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay18 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay19 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay2 a fed:Essay ;
+    fed:hasTopic fed:ForeignDangers .
+
+fed:Essay20 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay21 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay22 a fed:Essay ;
+    fed:hasTopic fed:DefectsOfConfederation .
+
+fed:Essay23 a fed:Essay ;
+    fed:hasTopic fed:CommonDefense .
+
+fed:Essay24 a fed:Essay ;
+    fed:hasTopic fed:CommonDefense .
+
+fed:Essay25 a fed:Essay ;
+    fed:hasTopic fed:CommonDefense .
+
+fed:Essay26 a fed:Essay ;
+    fed:hasTopic fed:CommonDefense .
+
+fed:Essay27 a fed:Essay ;
+    fed:hasTopic fed:CommonDefense .
+
+fed:Essay28 a fed:Essay ;
+    fed:hasTopic fed:CommonDefense .
+
+fed:Essay29 a fed:Essay ;
+    fed:hasTopic fed:CommonDefense .
+
+fed:Essay3 a fed:Essay ;
+    fed:hasTopic fed:ForeignDangers .
+
+fed:Essay30 a fed:Essay ;
+    fed:hasTopic fed:Taxation .
+
+fed:Essay31 a fed:Essay ;
+    fed:hasTopic fed:Taxation .
+
+fed:Essay32 a fed:Essay ;
+    fed:hasTopic fed:Taxation .
+
+fed:Essay33 a fed:Essay ;
+    fed:hasTopic fed:Taxation .
+
+fed:Essay34 a fed:Essay ;
+    fed:hasTopic fed:Taxation .
+
+fed:Essay35 a fed:Essay ;
+    fed:hasTopic fed:Taxation .
+
+fed:Essay36 a fed:Essay ;
+    fed:hasTopic fed:Taxation .
+
+fed:Essay37 a fed:Essay ;
+    fed:hasTopic fed:ConventionAndRepublicanForm .
+
+fed:Essay38 a fed:Essay ;
+    fed:hasTopic fed:ConventionAndRepublicanForm .
+
+fed:Essay39 a fed:Essay ;
+    fed:hasTopic fed:ConventionAndRepublicanForm .
+
+fed:Essay4 a fed:Essay ;
+    fed:hasTopic fed:ForeignDangers .
+
+fed:Essay40 a fed:Essay ;
+    fed:hasTopic fed:ConventionAndRepublicanForm .
+
+fed:Essay41 a fed:Essay ;
+    fed:hasTopic fed:FederalPowers .
+
+fed:Essay42 a fed:Essay ;
+    fed:hasTopic fed:FederalPowers .
+
+fed:Essay43 a fed:Essay ;
+    fed:hasTopic fed:FederalPowers .
+
+fed:Essay44 a fed:Essay ;
+    fed:hasTopic fed:FederalPowers .
+
+fed:Essay45 a fed:Essay ;
+    fed:hasTopic fed:FederalPowers .
+
+fed:Essay46 a fed:Essay ;
+    fed:hasTopic fed:FederalPowers .
+
+fed:Essay47 a fed:Essay ;
+    fed:hasTopic fed:SeparationOfPowers .
+
+fed:Essay48 a fed:Essay ;
+    fed:hasTopic fed:SeparationOfPowers .
+
+fed:Essay49 a fed:Essay ;
+    fed:hasTopic fed:SeparationOfPowers .
+
+fed:Essay5 a fed:Essay ;
+    fed:hasTopic fed:ForeignDangers .
+
+fed:Essay50 a fed:Essay ;
+    fed:hasTopic fed:SeparationOfPowers .
+
+fed:Essay51 a fed:Essay ;
+    fed:hasTopic fed:SeparationOfPowers .
+
+fed:Essay52 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay53 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay54 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay55 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay56 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay57 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay58 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay59 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay6 a fed:Essay ;
+    fed:hasTopic fed:InterstateConflict .
+
+fed:Essay60 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay61 a fed:Essay ;
+    fed:hasTopic fed:HouseOfRepresentatives .
+
+fed:Essay62 a fed:Essay ;
+    fed:hasTopic fed:Senate .
+
+fed:Essay63 a fed:Essay ;
+    fed:hasTopic fed:Senate .
+
+fed:Essay64 a fed:Essay ;
+    fed:hasTopic fed:Senate .
+
+fed:Essay65 a fed:Essay ;
+    fed:hasTopic fed:Senate .
+
+fed:Essay66 a fed:Essay ;
+    fed:hasTopic fed:Senate .
+
+fed:Essay67 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay68 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay69 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay7 a fed:Essay ;
+    fed:hasTopic fed:InterstateConflict .
+
+fed:Essay70 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay71 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay72 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay73 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay74 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay75 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay76 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay77 a fed:Essay ;
+    fed:hasTopic fed:Executive .
+
+fed:Essay78 a fed:Essay ;
+    fed:hasTopic fed:Judiciary .
+
+fed:Essay79 a fed:Essay ;
+    fed:hasTopic fed:Judiciary .
+
+fed:Essay8 a fed:Essay ;
+    fed:hasTopic fed:InterstateConflict .
+
+fed:Essay80 a fed:Essay ;
+    fed:hasTopic fed:Judiciary .
+
+fed:Essay81 a fed:Essay ;
+    fed:hasTopic fed:Judiciary .
+
+fed:Essay82 a fed:Essay ;
+    fed:hasTopic fed:Judiciary .
+
+fed:Essay83 a fed:Essay ;
+    fed:hasTopic fed:Judiciary .
+
+fed:Essay84 a fed:Essay ;
+    fed:hasTopic fed:GeneralObjections .
+
+fed:Essay85 a fed:Essay ;
+    fed:hasTopic fed:Conclusion .
+
+fed:Essay9 a fed:Essay ;
+    fed:hasTopic fed:DomesticFaction .
+
+fed:CommerceAndNavy a fed:Topic .
+
+fed:Conclusion a fed:Topic .
+
+fed:EconomyInGovernment a fed:Topic .
+
+fed:ExtentOfTerritory a fed:Topic .
+
+fed:GeneralObjections a fed:Topic .
+
+fed:Introduction a fed:Topic .
+
+fed:Revenue a fed:Topic .
+
+fed:DomesticFaction a fed:Topic .
+
+fed:InterstateConflict a fed:Topic .
+
+fed:ConventionAndRepublicanForm a fed:Topic .
+
+fed:ForeignDangers a fed:Topic .
+
+fed:Senate a fed:Topic .
+
+fed:SeparationOfPowers a fed:Topic .
+
+fed:FederalPowers a fed:Topic .
+
+fed:Judiciary a fed:Topic .
+
+fed:CommonDefense a fed:Topic .
+
+fed:Taxation a fed:Topic .
+
+fed:DefectsOfConfederation a fed:Topic .
+
+fed:HouseOfRepresentatives a fed:Topic .
+
+fed:Executive a fed:Topic .
+

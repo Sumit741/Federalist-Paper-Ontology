@@ -1,0 +1,872 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+fed:APP_McLean_1 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "1"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_10 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "10"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_11 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "11"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_12 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "12"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_13 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "13"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_14 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "14"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_15 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "15"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_16 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "16"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_17 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "17"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_18 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "18"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_19 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "19"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_2 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "2"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_20 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "20"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_21 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "21"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_22 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "22"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_23 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "23"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_24 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "24"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_25 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "25"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_26 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "26"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_27 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "27"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_28 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "28"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_29 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "29"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_3 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "3"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_30 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "30"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_31 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "31"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_32 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "32"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_33 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "33"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_34 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "34"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_35 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "35"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_36 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "36"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_37 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "37"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_38 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "38"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_39 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "39"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_4 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "4"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_40 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "40"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_41 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "41"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_42 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "42"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_43 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "43"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_44 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "44"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_45 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "45"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_46 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "46"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_47 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "47"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_48 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "48"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_49 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "49"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_5 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "5"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_50 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "50"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_51 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "51"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_52 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "52"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_53 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "53"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_54 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "54"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_55 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "55"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_56 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "56"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_57 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "57"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_58 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "58"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_59 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "59"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_6 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "6"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_60 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "60"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_61 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "61"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_62 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "62"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_63 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "63"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_64 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "64"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_65 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "65"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_66 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "66"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_67 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "67"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_68 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "68"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_69 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "69"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_7 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "7"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_70 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "70"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_71 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "71"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_72 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "72"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_73 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "73"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_74 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "74"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_75 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "75"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_76 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "76"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_77 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "77"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_78 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "78"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_79 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "79"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_8 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "8"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_80 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "80"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_81 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "81"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_82 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "82"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_83 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "83"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_84 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "84"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_85 a fed:Appearance ;
+    fed:hasDate "1788-05-28"^^xsd:date ;
+    fed:hasPrintedNumber "85"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_McLean_9 a fed:Appearance ;
+    fed:hasDate "1788-03-22"^^xsd:date ;
+    fed:hasPrintedNumber "9"^^xsd:positiveInteger ;
+    fed:inPublication fed:McLeanEdition .
+
+fed:APP_News_1 a fed:Appearance ;
+    fed:hasDate "1787-10-27"^^xsd:date ;
+    fed:hasPrintedNumber "1"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_10 a fed:Appearance ;
+    fed:hasDate "1787-11-22"^^xsd:date ;
+    fed:hasPrintedNumber "10"^^xsd:positiveInteger ;
+    fed:inPublication fed:DailyAdvertiser .
+
+fed:APP_News_11 a fed:Appearance ;
+    fed:hasDate "1787-11-24"^^xsd:date ;
+    fed:hasPrintedNumber "11"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_12 a fed:Appearance ;
+    fed:hasDate "1787-11-27"^^xsd:date ;
+    fed:hasPrintedNumber "12"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_13 a fed:Appearance ;
+    fed:hasDate "1787-11-28"^^xsd:date ;
+    fed:hasPrintedNumber "13"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_14 a fed:Appearance ;
+    fed:hasDate "1787-11-30"^^xsd:date ;
+    fed:hasPrintedNumber "14"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_15 a fed:Appearance ;
+    fed:hasDate "1787-12-01"^^xsd:date ;
+    fed:hasPrintedNumber "15"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_16 a fed:Appearance ;
+    fed:hasDate "1787-12-04"^^xsd:date ;
+    fed:hasPrintedNumber "16"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_17 a fed:Appearance ;
+    fed:hasDate "1787-12-05"^^xsd:date ;
+    fed:hasPrintedNumber "17"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_18 a fed:Appearance ;
+    fed:hasDate "1787-12-07"^^xsd:date ;
+    fed:hasPrintedNumber "18"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_19 a fed:Appearance ;
+    fed:hasDate "1787-12-08"^^xsd:date ;
+    fed:hasPrintedNumber "19"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_2 a fed:Appearance ;
+    fed:hasDate "1787-10-31"^^xsd:date ;
+    fed:hasPrintedNumber "2"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_20 a fed:Appearance ;
+    fed:hasDate "1787-12-11"^^xsd:date ;
+    fed:hasPrintedNumber "20"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_21 a fed:Appearance ;
+    fed:hasDate "1787-12-12"^^xsd:date ;
+    fed:hasPrintedNumber "21"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_22 a fed:Appearance ;
+    fed:hasDate "1787-12-14"^^xsd:date ;
+    fed:hasPrintedNumber "22"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_23 a fed:Appearance ;
+    fed:hasDate "1787-12-18"^^xsd:date ;
+    fed:hasPrintedNumber "23"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_24 a fed:Appearance ;
+    fed:hasDate "1787-12-19"^^xsd:date ;
+    fed:hasPrintedNumber "24"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_25 a fed:Appearance ;
+    fed:hasDate "1787-12-21"^^xsd:date ;
+    fed:hasPrintedNumber "25"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_26 a fed:Appearance ;
+    fed:hasDate "1787-12-22"^^xsd:date ;
+    fed:hasPrintedNumber "26"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_27 a fed:Appearance ;
+    fed:hasDate "1787-12-25"^^xsd:date ;
+    fed:hasPrintedNumber "27"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_28 a fed:Appearance ;
+    fed:hasDate "1787-12-26"^^xsd:date ;
+    fed:hasPrintedNumber "28"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_29 a fed:Appearance ;
+    fed:hasDate "1788-01-09"^^xsd:date ;
+    fed:hasPrintedNumber "35"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_3 a fed:Appearance ;
+    fed:hasDate "1787-11-03"^^xsd:date ;
+    fed:hasPrintedNumber "3"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_30 a fed:Appearance ;
+    fed:hasDate "1787-12-28"^^xsd:date ;
+    fed:hasPrintedNumber "29"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_31 a fed:Appearance ;
+    fed:hasDate "1788-01-01"^^xsd:date ;
+    fed:hasPrintedNumber "30"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_32_33 a fed:Appearance ;
+    fed:hasDate "1788-01-02"^^xsd:date ;
+    fed:hasPrintedNumber "31"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_34 a fed:Appearance ;
+    fed:hasDate "1788-01-04"^^xsd:date ;
+    fed:hasPrintedNumber "32"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_35 a fed:Appearance ;
+    fed:hasDate "1788-01-05"^^xsd:date ;
+    fed:hasPrintedNumber "33"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_36 a fed:Appearance ;
+    fed:hasDate "1788-01-08"^^xsd:date ;
+    fed:hasPrintedNumber "34"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_37 a fed:Appearance ;
+    fed:hasDate "1788-01-11"^^xsd:date ;
+    fed:hasPrintedNumber "36"^^xsd:positiveInteger ;
+    fed:inPublication fed:DailyAdvertiser .
+
+fed:APP_News_38 a fed:Appearance ;
+    fed:hasDate "1788-01-12"^^xsd:date ;
+    fed:hasPrintedNumber "37"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_39 a fed:Appearance ;
+    fed:hasDate "1788-01-16"^^xsd:date ;
+    fed:hasPrintedNumber "38"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_4 a fed:Appearance ;
+    fed:hasDate "1787-11-07"^^xsd:date ;
+    fed:hasPrintedNumber "4"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_40 a fed:Appearance ;
+    fed:hasDate "1788-01-18"^^xsd:date ;
+    fed:hasPrintedNumber "39"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_41 a fed:Appearance ;
+    fed:hasDate "1788-01-19"^^xsd:date ;
+    fed:hasPrintedNumber "40"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_42 a fed:Appearance ;
+    fed:hasDate "1788-01-22"^^xsd:date ;
+    fed:hasPrintedNumber "41"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_43 a fed:Appearance ;
+    fed:hasDate "1788-01-23"^^xsd:date ;
+    fed:hasPrintedNumber "42"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_44 a fed:Appearance ;
+    fed:hasDate "1788-01-25"^^xsd:date ;
+    fed:hasPrintedNumber "43"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_45 a fed:Appearance ;
+    fed:hasDate "1788-01-26"^^xsd:date ;
+    fed:hasPrintedNumber "44"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_46 a fed:Appearance ;
+    fed:hasDate "1788-01-29"^^xsd:date ;
+    fed:hasPrintedNumber "45"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_47 a fed:Appearance ;
+    fed:hasDate "1788-01-30"^^xsd:date ;
+    fed:hasPrintedNumber "46"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_48 a fed:Appearance ;
+    fed:hasDate "1788-02-01"^^xsd:date ;
+    fed:hasPrintedNumber "47"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_49 a fed:Appearance ;
+    fed:hasDate "1788-02-02"^^xsd:date ;
+    fed:hasPrintedNumber "48"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_5 a fed:Appearance ;
+    fed:hasDate "1787-11-10"^^xsd:date ;
+    fed:hasPrintedNumber "5"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_50 a fed:Appearance ;
+    fed:hasDate "1788-02-05"^^xsd:date ;
+    fed:hasPrintedNumber "49"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_51 a fed:Appearance ;
+    fed:hasDate "1788-02-06"^^xsd:date ;
+    fed:hasPrintedNumber "50"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_52 a fed:Appearance ;
+    fed:hasDate "1788-02-08"^^xsd:date ;
+    fed:hasPrintedNumber "51"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_53 a fed:Appearance ;
+    fed:hasDate "1788-02-09"^^xsd:date ;
+    fed:hasPrintedNumber "52"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_54 a fed:Appearance ;
+    fed:hasDate "1788-02-12"^^xsd:date ;
+    fed:hasPrintedNumber "53"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_55 a fed:Appearance ;
+    fed:hasDate "1788-02-13"^^xsd:date ;
+    fed:hasPrintedNumber "54"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_56 a fed:Appearance ;
+    fed:hasDate "1788-02-16"^^xsd:date ;
+    fed:hasPrintedNumber "55"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_57 a fed:Appearance ;
+    fed:hasDate "1788-02-19"^^xsd:date ;
+    fed:hasPrintedNumber "56"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_58 a fed:Appearance ;
+    fed:hasDate "1788-02-20"^^xsd:date ;
+    fed:hasPrintedNumber "57"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_59 a fed:Appearance ;
+    fed:hasDate "1788-02-22"^^xsd:date ;
+    fed:hasPrintedNumber "58"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_6 a fed:Appearance ;
+    fed:hasDate "1787-11-14"^^xsd:date ;
+    fed:hasPrintedNumber "6"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_60 a fed:Appearance ;
+    fed:hasDate "1788-02-23"^^xsd:date ;
+    fed:hasPrintedNumber "59"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_61 a fed:Appearance ;
+    fed:hasDate "1788-02-26"^^xsd:date ;
+    fed:hasPrintedNumber "60"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_62 a fed:Appearance ;
+    fed:hasDate "1788-02-27"^^xsd:date ;
+    fed:hasPrintedNumber "61"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_63 a fed:Appearance ;
+    fed:hasDate "1788-03-01"^^xsd:date ;
+    fed:hasPrintedNumber "62"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_64 a fed:Appearance ;
+    fed:hasDate "1788-03-05"^^xsd:date ;
+    fed:hasPrintedNumber "63"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_65 a fed:Appearance ;
+    fed:hasDate "1788-03-07"^^xsd:date ;
+    fed:hasPrintedNumber "64"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_66 a fed:Appearance ;
+    fed:hasDate "1788-03-08"^^xsd:date ;
+    fed:hasPrintedNumber "65"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_67 a fed:Appearance ;
+    fed:hasDate "1788-03-11"^^xsd:date ;
+    fed:hasPrintedNumber "66"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_68 a fed:Appearance ;
+    fed:hasDate "1788-03-12"^^xsd:date ;
+    fed:hasPrintedNumber "67"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_69 a fed:Appearance ;
+    fed:hasDate "1788-03-14"^^xsd:date ;
+    fed:hasPrintedNumber "68"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_7 a fed:Appearance ;
+    fed:hasDate "1787-11-17"^^xsd:date ;
+    fed:hasPrintedNumber "7"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_70 a fed:Appearance ;
+    fed:hasDate "1788-03-15"^^xsd:date ;
+    fed:hasPrintedNumber "69"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_71 a fed:Appearance ;
+    fed:hasDate "1788-03-18"^^xsd:date ;
+    fed:hasPrintedNumber "70"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_72 a fed:Appearance ;
+    fed:hasDate "1788-03-19"^^xsd:date ;
+    fed:hasPrintedNumber "71"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_73 a fed:Appearance ;
+    fed:hasDate "1788-03-21"^^xsd:date ;
+    fed:hasPrintedNumber "72"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_74 a fed:Appearance ;
+    fed:hasDate "1788-03-25"^^xsd:date ;
+    fed:hasPrintedNumber "73"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_75 a fed:Appearance ;
+    fed:hasDate "1788-03-26"^^xsd:date ;
+    fed:hasPrintedNumber "74"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_76 a fed:Appearance ;
+    fed:hasDate "1788-04-01"^^xsd:date ;
+    fed:hasPrintedNumber "75"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_77 a fed:Appearance ;
+    fed:hasDate "1788-04-02"^^xsd:date ;
+    fed:hasPrintedNumber "76"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_News_8 a fed:Appearance ;
+    fed:hasDate "1787-11-20"^^xsd:date ;
+    fed:hasPrintedNumber "8"^^xsd:positiveInteger ;
+    fed:inPublication fed:NewYorkPacket .
+
+fed:APP_News_9 a fed:Appearance ;
+    fed:hasDate "1787-11-21"^^xsd:date ;
+    fed:hasPrintedNumber "9"^^xsd:positiveInteger ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_78 a fed:Appearance ;
+    fed:hasDate "1788-06-14"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_79 a fed:Appearance ;
+    fed:hasDate "1788-06-18"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_80 a fed:Appearance ;
+    fed:hasDate "1788-06-21"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_81_part1 a fed:Appearance ;
+    fed:hasDate "1788-06-25"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_81_part2 a fed:Appearance ;
+    fed:hasDate "1788-06-28"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_82 a fed:Appearance ;
+    fed:hasDate "1788-07-02"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_83_part1 a fed:Appearance ;
+    fed:hasDate "1788-07-05"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_83_part2 a fed:Appearance ;
+    fed:hasDate "1788-07-09"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_83_part3 a fed:Appearance ;
+    fed:hasDate "1788-07-12"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_84_part1 a fed:Appearance ;
+    fed:hasDate "1788-07-16"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_84_part2 a fed:Appearance ;
+    fed:hasDate "1788-07-26"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_84_part3 a fed:Appearance ;
+    fed:hasDate "1788-08-09"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_85_part1 a fed:Appearance ;
+    fed:hasDate "1788-08-13"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:APP_Reprint_85_part2 a fed:Appearance ;
+    fed:hasDate "1788-08-16"^^xsd:date ;
+    fed:inPublication fed:IndependentJournal .
+
+fed:DailyAdvertiser a fed:Publication .
+
+fed:NewYorkPacket a fed:Publication .
+
+fed:IndependentJournal a fed:Publication .
+
+fed:McLeanEdition a fed:Publication .
+

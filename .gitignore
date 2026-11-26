@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary and backup files
+*.save
+*.bak
+*.tmp
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env

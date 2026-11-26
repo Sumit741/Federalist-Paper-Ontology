@@ -1,0 +1,33 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+fed:RR_Gideon_Madison a fed:RevisionRecords ;
+    fed:inEdition fed:GideonEdition ;
+    fed:isRecordedIn fed:SyrettCooke1962 .
+
+fed:RR_Hopkins_Dawson a fed:RevisionRecords ;
+    fed:inEdition fed:HopkinsEdition ;
+    fed:isRecordedIn fed:DawsonEdition ;
+    fed:wasApproved false .
+
+fed:RR_Hopkins_JCH a fed:RevisionRecords ;
+    fed:inEdition fed:HopkinsEdition ;
+    fed:isRecordedIn fed:JCHamiltonEdition ;
+    fed:wasApproved true .
+
+fed:RR_McLean_Hamilton a fed:RevisionRecords ;
+    fed:inEdition fed:McLeanEdition ;
+    fed:isRecordedIn fed:SyrettCooke1962 .
+
+fed:DawsonEdition a fed:Source .
+
+fed:GideonEdition a fed:Edition .
+
+fed:JCHamiltonEdition a fed:Source .
+
+fed:McLeanEdition a fed:Edition .
+
+fed:HopkinsEdition a fed:Edition .
+
+fed:SyrettCooke1962 a fed:Source .
+

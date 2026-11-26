@@ -1,0 +1,12 @@
+@prefix fed: <https://w3id.org/federalist-paper-ontology/> .
+
+fed:HopkinsLetter1847 a fed:Letter ;
+    fed:hasRecipient fed:JCHamilton .
+
+fed:MadisonToRandolph1787 a fed:Letter ;
+    fed:hasRecipient fed:Randolph .
+
+fed:JCHamilton a fed:Person .
+
+fed:Randolph a fed:Person .
+
