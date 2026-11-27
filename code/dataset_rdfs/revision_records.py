@@ -10,7 +10,6 @@ with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
         source = pfs["fed"][row["source_id"]]
         edition = pfs["fed"][row["edition_id"]]
 
-
         graph.add((record, a, pfs["fed"]["RevisionRecords"]))
         graph.add((source, a, pfs["fed"]["Source"]))
         graph.add((edition, a, pfs["fed"]["Edition"]))

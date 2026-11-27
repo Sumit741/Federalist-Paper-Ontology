@@ -2188,7 +2188,7 @@ fed:AR_MW_63 a fed:AuthorshipRecord ;
 
 fed:AR_MadisonLetter_1787 a fed:AuthorshipRecord ;
     fed:hasClaimant fed:Madison ;
-    fed:isAboutEssay fed: ;
+    fed:isAboutEssay fed:Essay49 ;
     fed:isRecordedIn fed:MadisonToRandolph1787 .
 
 fed:AR_PortFolio_1 a fed:AuthorshipRecord ;
@@ -3380,8 +3380,6 @@ fed:AR_WashGazette_9 a fed:AuthorshipRecord ;
     fed:hasClaimant fed:Madison ;
     fed:isAboutEssay fed:Essay9 ;
     fed:isRecordedIn fed:WashingtonGazetteList .
-
-fed: a fed:Essay .
 
 fed:MadisonToRandolph1787 a fed:Source .
 
