@@ -9,16 +9,18 @@ with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
     for row in reader:
         record = pfs["fed"][row["record_id"]]
         record_type = pfs["fed"][row["record_type"]]
-        essay = pfs["fed"][row["essay_id"]]
+
+        if row["essay_id"]:        
+            essay = pfs["fed"][row["essay_id"]]
+            graph.add((record, pfs["fed"]["isAboutEssay"], essay))
+            graph.add((essay, a, pfs["fed"]["Essay"]))
+        
         source = pfs["fed"][row["source_id"]]
+        graph.add((source, a, pfs["fed"]["Source"]))
 
         graph.add((record, a, record_type))
         graph.add((record, pfs["fed"]["isAboutEssay"], essay))
         graph.add((record, pfs["fed"]["isRecordedIn"], source))
-
-
-        graph.add((essay, a, pfs["fed"]["Essay"]))
-        graph.add((source, a, pfs["fed"]["Source"]))
 
 
         # Add a claimant only when one is recorded.
