@@ -19,7 +19,6 @@ with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
         graph.add((source, a, pfs["fed"]["Source"]))
 
         graph.add((record, a, record_type))
-        graph.add((record, pfs["fed"]["isAboutEssay"], essay))
         graph.add((record, pfs["fed"]["isRecordedIn"], source))
 
 

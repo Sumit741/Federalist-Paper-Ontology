@@ -10,13 +10,14 @@
 PREFIX fed: <https://w3id.org/federalist-paper-ontology/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-SELECT DISTINCT ?person ?essay ?source
+SELECT DISTINCT ?essay ?McLeanNumber ?person ?source
 
 WHERE {  
 	?record a/rdfs:subClassOf* fed:AuthorshipRecord;
   			fed:creditsPerson ?person;
      		fed:isAboutEssay ?essay;
        		fed:isRecordedIn ?source .
+  	?essay fed:hasMcLeanNumber ?McLeanNumber .
 }
 ORDER BY DESC(?essay)
 LIMIT 5
@@ -34,12 +35,20 @@ LIMIT 5
 ## Competency Question Name
 **Competency Question:** "2. Whom does source S credit as the author of essay E?  "
 
-**Bridged Datasets:** dataset 1, dataset 2, ...
+**Bridged Datasets:** authorship_records.ttl, authorship_credits.ttl
 
 **SPARQL Query:**
 ```
-SELECT * WHERE {
-	?s ?p ?o .
+PREFIX fed: <https://w3id.org/federalist-paper-ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?source ?essay ?author
+WHERE {
+    VALUES ( ?essay) { ( fed:Essay1) }
+    ?record a/rdfs:subClassOf* fed:AuthorshipRecord ;
+            fed:creditsPerson ?author;
+            fed:isAboutEssay ?essay ;
+            fed:isRecordedIn ?source .
 }
 ```
 
